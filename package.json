@@ -1,0 +1,25 @@
+{
+  "name": "devopsexamplenode",
+  "version": "1.0.0",
+  "description": "A simple Node.js project for Jenkins CI example",
+  "main": "src/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NandavardhanRadhakrishnan/devopsExampleNode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NandavardhanRadhakrishnan/devopsExampleNode/issues"
+  },
+  "homepage": "https://github.com/NandavardhanRadhakrishnan/devopsExampleNode#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
